@@ -4,8 +4,8 @@
 title:               basilisaac
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-baseurl: "/basilisaac" # the subpath of your site, e.g. /blog
-url: "localhost:4000"
+#baseurl: "/basilisaac" # the subpath of your site, e.g. /blog
+url: "basilisa.ac"
 
 # About/contact
 author:
