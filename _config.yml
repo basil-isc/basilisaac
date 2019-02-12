@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -21,6 +22,33 @@ baseurl: "/basilisaac" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pestoisaac
 github_username:  pestoisaac
+=======
+# Built with Jekyll 3.2.0
+
+# Setup
+title:               basilisaac
+tagline:             'a jekyll theme for minimal editions'
+description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+#baseurl: "/basilisaac" # the subpath of your site, e.g. /blog
+url: "basilisa.ac"
+
+# About/contact
+author:
+  name:              pestoisaac
+  url:               
+  email:             pestoisaac@gmail.com
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: 
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+>>>>>>> d8c52a9a0cb6fd9fc3cb35038c138dbb7cfdc0f6
 
 # Build settings
 markdown: kramdown
